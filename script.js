@@ -55,7 +55,7 @@ window.onload=function() {
 		new Movie("Jurassic Park", 1993, false),
 		new Movie("Lawrence of Arabia", 1962, false),
 		new Movie("Léon: The Professional", 1994, false),
-		new Movie("Mad Max: Fury Road", 2015, false),
+		new Movie("Mad Max: Fury Road", 2015, true),
 		new Movie("Memento", 2000, true),
 		new Movie("Moonlight", 2016, true),
 		new Movie("No Country for Old Men", 2007, true),
