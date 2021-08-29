@@ -93,7 +93,7 @@ window.onload=function() {
 		new Movie("The Pursuit of Happyness", 2006, false),
 		new Movie("The Prestige", 2006, true),
 		new Movie("The Pianist", 2002, false),
-		new Movie("The Notebook", 2004, false),
+		new Movie("The Notebook", 2004, true),
 		new Movie("The Matrix", 1999, true),
 		new Movie("The Lord of the Rings", 2001, true),
 		new Movie("The Lion King", 1994, true),
