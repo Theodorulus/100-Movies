@@ -128,5 +128,5 @@ window.onload=function() {
 
 	}
 	console.log(movies)
-	document.getElementById("total_no_of_movies").innerHTML = "I have seen: " + no_of_movies_seen + " / 100 movies."
+	document.getElementById("total_no_of_movies").innerHTML = "I have watched: " + no_of_movies_seen + " / 100 movies."
 }
